@@ -1,6 +1,29 @@
-.body{
+body{
   font-family: Verdana;
+  text-align: center;
+  background-color: black;
 }
 p{
   text-align: center;
+}
+.header{
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+}
+#url{
+  color: Aquamarine;
+  font-size: 16px;
+}
+#Personal{
+  font-weight: 300;
+  font-size: 42px;
+}
+#recom{
+  font-size: 21px;
+  color:gray;
+}
+#rights{
+  color:gray;
+  text-align: right;
 }
